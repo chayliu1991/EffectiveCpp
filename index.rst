@@ -11,7 +11,7 @@ Contents:
 .. toctree::
    :maxdepth: 2
    
-   /src/ch1/自己习惯C++
+   /src/ch1/让自己习惯C++
    /src/ch2/构造、析构、赋值运算
    /src/ch3/资源管理  
    /src/ch4/设计与声明

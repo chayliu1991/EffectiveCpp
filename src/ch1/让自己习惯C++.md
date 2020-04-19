@@ -157,9 +157,9 @@ cout << *p << endl;	//@ 2
 
 ### const 与迭代器
 
-**const iterator：**表示 iterator 本身是常量，不能将这个 iterator 指向另外一件不同的东西，但是它所指向的东西本身可以变化。
+const iterator：表示 iterator 本身是常量，不能将这个 iterator 指向另外一件不同的东西，但是它所指向的东西本身可以变化。
 
-**conts_iterator：**表示  iterator 指向的内容不能发生变化，但是其本身可以变化。
+conts_iterator：表示  iterator 指向的内容不能发生变化，但是其本身可以变化。
 
 ```
 std::vector<int> vec;
