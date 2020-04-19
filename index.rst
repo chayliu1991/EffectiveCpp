@@ -23,10 +23,4 @@ Contents:
 
 
 
-   
-Indices and tables
-==================
-
-* :ref:`genindex`
-
 
