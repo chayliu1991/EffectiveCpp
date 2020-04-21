@@ -18,7 +18,7 @@ Contents:
    /src/ch5/实现   
    /src/ch6/继承与面向对象设计 
    /src/ch7/模板与泛型编程   
-   /src/ch8/定制new和delet
+   /src/ch8/定制new和delete
    /src/ch9/杂项讨论
 
 
